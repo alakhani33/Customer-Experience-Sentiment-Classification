@@ -5,7 +5,7 @@ This project builds a sentiment classification model to analyze customer feedbac
 
 ## 📊 Dataset
 
-The dataset consists of customer comments labeled as `pos` (positive) or `neg` (negative) sentiments. It is loaded from a CSV file named `customer_comments_data.csv`.
+The dataset consists of customer comments labeled as `pos` (positive) or `neg` (negative) sentiments. 
 
 Key statistics:
 - Number of samples: *[add actual number if known]*
